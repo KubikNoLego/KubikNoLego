@@ -17,7 +17,6 @@
 
 - 💻 Основной язык: **Python**
 - 🦀 Изучаю: **Rust**
-- 🎮 Увлечения: Гача-игры, аниме, разработка
 
 ---
 
@@ -40,12 +39,6 @@
 > Telegram-бот для коллекционирования аниме-карточек с гача-системой
 
 ---
-
-## 🎮 Игровые увлечения
-
-Любитель гача-игр и аниме:
-- 🎭 [Genshin Impact](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&gid=2&user_id=205545342&utm_source=share&utm_medium=link&lang=ru-ru&bbs_theme=dark&bbs_theme_device=1&utm_campaign=web#/ys)
-- 🐎 Umamusume: Pretty Derby
 
 <p align="center">
     <img src="https://media.tenor.com/ifD1GaekwpoAAAAj/uma-musume-agnes-tachyon.gif" alt="Tachyon" width="200"/>
