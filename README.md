@@ -38,6 +38,9 @@
 ### 🎴 [AnimeCards](https://github.com/KubikNoLego/AnimeCards)
 > Telegram-бот для коллекционирования аниме-карточек с гача-системой
 
+### [KUBIKS](https://github.com/KubikNoLego/Kubiks)
+> Простой и удобный язык конфигурации для Python
+
 ---
 
 <p align="center">
