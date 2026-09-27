@@ -35,8 +35,8 @@
 
 ## 🚀 Проекты
 
-### 🎴 [AnimeCards](https://github.com/KubikNoLego/AnimeCards)
-> Telegram-бот для коллекционирования аниме-карточек с гача-системой
+### [HTMLShot](https://github.com/KubikNoLego/HTMLShot)
+> Микросервис для создания скриншотов из HTML
 
 ### [KUBIKS](https://github.com/KubikNoLego/Kubiks)
 > Простой и удобный язык конфигурации для Python
